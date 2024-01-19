@@ -1,24 +1,39 @@
-# Android SQLite Database Example
+<h1 align="center">
+  <a href="https://github.com/Snehamadhvi07/sqlite-crud-app">
+    SQLite CRUD App
+  </a>
+</h1>
 
-This is a simple Android application demonstrating the usage of SQLite database to perform CRUD operations.
+<p align="center">
+  <a href="https://github.com/Snehamadhvi07/sqlite-crud-app/actions?query=workflow%3A%22Node.js+CI%22">
+    <img src="https://github.com/Snehamadhvi07/sqlite-crud-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
+  </a>
+  <a href="https://github.com/Snehamadhvi07/sqlite-crud-app/releases">
+    <img src="https://img.shields.io/github/v/release/Snehamadhvi07/sqlite-crud-app" alt="GitHub Release (latest by date)" />
+  </a>
+  <a href="https://github.com/Snehamadhvi07/sqlite-crud-app/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Snehamadhvi07/sqlite-crud-app" alt="License" />
+  </a>
+</p>
 
-## Features
+<p align="center">
+  A simple CRUD application built with SQLite, React, and Node.js.
+</p>
 
-- Create, Read, Update, and Delete (CRUD) operations with SQLite.
-- User-friendly interface.
-- Sample implementation of a SQLite database in an Android app.
+![sqlite-crud-app](insert_your_image_url_here.png)
 
-## Getting Started
+## Technologies Used
 
-These instructions will help you set up and run the project on your local machine.
+- [React](http://reactjs.org)
+- [Node.js](https://nodejs.org)
+- [SQLite](https://www.sqlite.org)
+- [Primitive UI](https://taniarascia.github.io/primitive)
+- [SweetAlert2](https://sweetalert2.github.io)
 
-### Prerequisites
+## Development
 
-- Android Studio installed on your machine.
+To get a local copy of the code, clone it using git:
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/sqlite-android.git
+```bash
+git clone https://github.com/Snehamadhvi07/sqlite-crud-app.git
+cd sqlite-crud-app
